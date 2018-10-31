@@ -6,7 +6,7 @@ print("Hello World!")
 a = 12
 print(a)
 
-# this is a comment 
+# this is a comment
 
 c = 4
 print(c) # this is a comment too
@@ -16,8 +16,7 @@ print(math.e)
 
 a = 2
 b = 6
-print(a + b) # This is really cool!
+print(a + b) # This is really cool! for me
 
 
 1 and 4
-
